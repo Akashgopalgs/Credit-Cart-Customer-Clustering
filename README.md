@@ -1,4 +1,4 @@
-# 💳 Credit Card Customer Clustering
+# 💳 Credit Card Customer Clustering 
 ![Screenshot 2024-09-12 185852](https://github.com/user-attachments/assets/46f5e01c-1808-4fa4-ac56-03c63fb5dbf9)
 
 
