@@ -16,7 +16,7 @@ This project focuses on customer segmentation using credit card transaction data
 ### PCA (Principal Component Analysis):
 - PCA was used to reduce the dimensionality of the dataset for better visualization and interpretation of the clusters.
 - Transformed the data into two principal components for plotting and easier visualization.
-
+ 
 
 ### DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
 - DBSCAN is used to discover clusters in the dataset by identifying high-density regions.
