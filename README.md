@@ -10,7 +10,7 @@ This project focuses on customer segmentation using credit card transaction data
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Clustering using DBSCAN and dimensionality reduction using PCA
-- Building a web-based interface using Streamlit for interactive customer input
+- Building a web-based interface using Streamlit for interactive customer input 
 
 ## 🧠 Model Explanation
 ### PCA (Principal Component Analysis):
