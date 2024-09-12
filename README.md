@@ -2,7 +2,7 @@
 ![Screenshot 2024-09-12 185852](https://github.com/user-attachments/assets/46f5e01c-1808-4fa4-ac56-03c63fb5dbf9)
 
 
-This project uses unsupervised machine learning algorithms to analyze and cluster credit card customer data. The main objective is to segment customers based on their credit card usage patterns using clustering techniques like DBSCAN and PCA.
+This project uses unsupervised machine learning algorithms to analyze and cluster credit card customer data. The main objective is to segment customers based on their credit card usage patterns using clustering techniques like DBSCAN and PCA. 
 
 ## 🚀 Overview
 This project focuses on customer segmentation using credit card transaction data, clustering customers based on their spending patterns and behaviors. It includes the following steps:
